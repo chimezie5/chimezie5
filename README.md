@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chimezie_Akpuda
 - 👀 I’m interested in cloud computing and project management
 - 🌱 I’m currently learning Azure, .NET, Python, BASH, and PowerShell
-- 💞️ I’m looking to collaborate on repositories for process improvement in Azure busienss environments
+- 💞️ I’m looking to collaborate on repositories for process improvement in Azure business environments
 - 📫 How to reach me at akpudac@yahoo.com 
 
 <!---
